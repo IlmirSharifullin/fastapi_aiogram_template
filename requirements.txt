@@ -1,0 +1,16 @@
+SQLAlchemy~=2.0.30
+psycopg~=3.1.18
+psycopg-binary~=3.1.18
+aiogram~=3.6.0
+pydantic~=2.6.4
+pydantic-settings~=2.2.1
+python-dotenv~=1.0.1
+uvicorn~=0.29.0
+fastapi~=0.111.0
+alembic~=1.13.1
+python-jose~=3.3.0
+passlib~=1.7.4
+jose~=1.0.0
+starlette~=0.37.2
+bcrypt~=4.0.1
+requests~=2.31.0
